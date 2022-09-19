@@ -1,2 +1,2 @@
-npm install jsonwebtoken
+npm install
 pause
